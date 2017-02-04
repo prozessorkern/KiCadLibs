@@ -1,0 +1,22 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# dual_pot
+#
+DEF dual_pot R 0 40 Y Y 2 L N
+F0 "R" -200 -150 60 H V C CNN
+F1 "dual_pot" 200 -150 60 H V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+DRAW
+S -100 50 100 -50 0 1 0 N
+X ~ 11 -300 0 200 R 50 50 1 1 B
+X ~ 12 0 300 200 D 50 50 1 1 B C
+X ~ 13 300 0 200 L 50 50 1 1 B
+X ~ 21 -300 0 200 R 50 50 2 1 B
+X ~ 22 0 300 200 D 50 50 2 1 B C
+X ~ 23 300 0 200 L 50 50 2 1 B
+ENDDRAW
+ENDDEF
+#
+#End Library
