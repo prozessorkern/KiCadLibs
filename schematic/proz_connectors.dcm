@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 10PIN_ISP_AVR
+D ATmel AVR ISP Connection using a 10 Pin Connector with UART Addon
+K ATMEL, AVR, ISP, Debug, 10
+$ENDCMP
+#
+$CMP 10PIN_JTAG_SWD
+D JTAG/SWD Connection using a 10 Pin Connector with UART Addon
+K JTAG, SWD, Debug, 10
+$ENDCMP
+#
+#End Doc Library
