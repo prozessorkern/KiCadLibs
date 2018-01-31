@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP LED_RGBW
-D LED RGBW 8 pins
-K led rgbw diode
-$ENDCMP
-#
-#End Doc Library
