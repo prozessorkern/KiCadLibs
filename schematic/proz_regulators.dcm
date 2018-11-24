@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC4267
+D Power over Ethernet IEEE 802.3af PD Interface with Integrated Switching Regulator
+K POE
+$ENDCMP
+#
+#End Doc Library

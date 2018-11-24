@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP H1102
+D ethernet magnetics transformer 10/100 MBit
+K ethernet magnetics transformer 10/100
+$ENDCMP
+#
+#End Doc Library
