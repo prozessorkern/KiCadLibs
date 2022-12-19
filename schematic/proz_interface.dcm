@@ -1,3 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP FT232H
+D FT232Hx, Hi Speed Single Channel USB UART/FIFO, LQFP/QFN-48
+K USB Single UART FIFO
+F http://www.ftdichip.com/Products/ICs/FT232H.htm
+$ENDCMP
+#
 #End Doc Library
